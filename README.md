@@ -1,2 +1,1 @@
-# 3-5-22-Homework
-This is my work in progress profile. I do not currently have any deployed applications, so there are placeholders in the meantime. The nav buttons hover & are clickable. They will take the user to the appropriate sections. As you hover on the cards the color will changes. And attached is my current nursing resume which is downloadable. 
+This is my current portfolio. Attached is my Github link & my resume. I have outlined my last group project as well as a few exemplary assignments.
